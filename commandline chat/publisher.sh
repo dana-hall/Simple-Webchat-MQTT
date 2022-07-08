@@ -1,0 +1,1 @@
+mosquitto_pub -h localhost -t 'erie' -m 'Hello from mosquitto_pub'

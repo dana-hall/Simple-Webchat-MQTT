@@ -1,0 +1,14 @@
+{
+  "name": "commandline-chat",
+  "version": "1.0.0",
+  "description": "Simple Node commandline chat using MQTT",
+  "main": "client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dana J. Hall",
+  "license": "ISC",
+  "dependencies": {
+    "mqtt": "^4.3.7"
+  }
+}
